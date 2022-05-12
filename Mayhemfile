@@ -1,5 +1,6 @@
 project: jacob-clemente/vdexExtractor
 target: vdexExtractor
+Duration: 600
 
 cmds:
   - cmd: /vdexExtractor -i @@
