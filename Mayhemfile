@@ -1,4 +1,4 @@
-project: jacob-clemente/vdexExtractor
+project: vdexExtractor
 target: vdexExtractor
 
 cmds:
